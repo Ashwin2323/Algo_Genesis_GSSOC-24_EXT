@@ -9,8 +9,9 @@ Given a 2D matrix of integers, the task is to print the elements of the matrix i
 ### Example:
 `Enter the number of rows: 3`  
 `Enter the number of columns: 3`  
-`Enter the matrix elements:`  
-``` 1 2 3
+`Enter the matrix elements: `  
+```
+1 2 3
 4 5 6
 7 8 9
 ```
