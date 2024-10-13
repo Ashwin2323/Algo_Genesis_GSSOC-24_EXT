@@ -48,6 +48,7 @@ The output should be:
 4. **Repeat Until All Elements Are Traversed**:
    The traversal continues while there are still elements within the boundaries.
 
+## Complexity
 ### Time Complexity: 
 O(m * n) where m is the number of rows and n is the number of columns. Each element is visited exactly once.
 ### Space Complexity:
