@@ -7,15 +7,18 @@ Spiral matrix traversal involves traversing a matrix in a spiral or circular ord
 Given a 2D matrix of integers, the task is to print the elements of the matrix in **spiral order**. The traversal begins at the top-left corner, proceeds to the right along the top row, then down the rightmost column, then to the left along the bottom row, and finally up the leftmost column, continuing inward until all elements are covered.
 
 ### Example:
-For the matrix:
-
-1 2 3 
-4 5 6 
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the matrix elements:
+1 2 3
+4 5 6
 7 8 9
+
 
 The output should be:
 
 Spiral order: 1 2 3 6 9 8 7 4 5
+
 
 
 ## Approach
