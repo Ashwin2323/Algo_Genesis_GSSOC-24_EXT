@@ -48,6 +48,9 @@ The output should be:
 4. **Repeat Until All Elements Are Traversed**:
    The traversal continues while there are still elements within the boundaries.
 
-### Example Walkthrough:
-For the given matrix:
+### Time Complexity: 
+O(m * n) where m is the number of rows and n is the number of columns. Each element is visited exactly once.
+### Space Complexity:
+Traversal space complexity: O(1) (constant space), since only a few variables are used for boundaries (top, bottom, left, right).
+Memory space complexity: O(m * n) for storing the matrix elements.
 
