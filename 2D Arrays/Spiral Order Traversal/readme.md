@@ -19,8 +19,10 @@ Given a 2D matrix of integers, the task is to print the elements of the matrix i
 
 The output should be:
 
-`Spiral order: `
-```1 2 3 6 9 8 7 4 5```
+`Spiral order: `  
+```
+1 2 3 6 9 8 7 4 5
+```
 
 
 
